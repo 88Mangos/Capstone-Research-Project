@@ -10,7 +10,6 @@ Original files are publicly available to download:
 - style images are available from [Alex Le's GitHub repository](https://github.com/AlexKaiLe/Debiasing-Melanoma-Images)
 
 ---
-12th Grade (2023-24 School Year), White Station High School, AP Capstone Program: Research.
+12th Grade (2023-24 School Year), White Station High School, AP Capstone Program: Research | Instructor: Ms. Montana Young
 
-Instructor: Ms. Montana Young
 Special thanks to Dr. Eman Rezk, who guided me through this research process, providing educational code snippets and reviewing my manuscripts.
