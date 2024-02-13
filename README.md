@@ -16,6 +16,7 @@ Original files are publicly available to download:
 - DDI: Download all images.
 
 In *datasets*, the original images for DDI and ISIC are not included because it would make the repository too large. For example, the ISIC folder including the original images is over 11 GB. 
+
 ---
 12th Grade (2023-24 School Year), White Station High School, AP Capstone Program: Research | Instructor: Ms. Montana Young
 
