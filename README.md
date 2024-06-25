@@ -1,4 +1,4 @@
-# Capstone-Research-Project
+# AP Capstone Program: Senior Research Project
 
 This repository contains all my code for my Capstone Research Project, investigating different methods to mitigate disparities in melanoma classification accuracy on underrepresented skin tones.
 
